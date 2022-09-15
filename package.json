@@ -1,0 +1,15 @@
+{
+  "name": "sayna-batman-api",
+  "version": "1.0.0",
+  "description": "Batman api eshop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["ecommerce, sayna"],
+  "author": "Sayna",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,46 @@
+[
+    {
+      "nom": "Sylvain",
+      "prenom": "Terwilly",
+      "email": "sylvainterwilly@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "nom": "qwertt",
+      "prenom": "ert",
+      "email": "a@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "nom": "Franck",
+      "prenom": "Assale",
+      "email": "franck@gmail.com",
+      "password": "franck",
+      "id": 3
+    },
+    {
+      "nom": "",
+      "prenom": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "nom": "",
+      "prenom": "",
+      "email": "",
+      "password": "vis",
+      "confirmPassword": "vision",
+      "id": 5
+    },
+    {
+      "nom": "syl",
+      "prenom": "vain",
+      "email": "sylly@gmail.com",
+      "password": "Vision",
+      "confirmPassword": "Vision",
+      "id": 6
+    }
+  ]
